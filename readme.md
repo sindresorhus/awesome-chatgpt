@@ -196,6 +196,7 @@
 ### Go
 
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Diagnosing web app log errors with ChatGPT.
+- [ go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go 
 
 ## Articles
 
