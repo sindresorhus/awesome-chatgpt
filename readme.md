@@ -143,6 +143,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
+- [shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 
 ## Bots
 
