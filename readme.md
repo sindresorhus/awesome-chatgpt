@@ -87,7 +87,7 @@
 - [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
 - [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
 - [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
-
+- [anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion. 
 ### Examples
 
 - [ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - A collection of Python web apps.
