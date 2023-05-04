@@ -199,6 +199,7 @@
 ## Articles
 
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/) - Learn how to build an app that enables users to improve their writing by rephrasing text.
+- [Stream data from ChatGPT with JavaScript](https://umaar.com/dev-tips/269-web-streams-openai/) - Learn how to consume streaming data from ChatGPT using vanilla JavaScript.
 
 ## Community
 
