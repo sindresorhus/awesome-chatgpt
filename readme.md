@@ -2,7 +2,10 @@
 	<br>
 	<br>
 	<div>
-		<img width="500" src="media/logo.svg" alt="Awesome ChatGPT">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.svg">
+			<img alt="Awesome ChatGPT" width="500px" src="media/logo-light.svg">
+		</picture>
 		<br>
 	</div>
 	<p>
