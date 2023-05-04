@@ -46,6 +46,7 @@
 - [WriteMage](https://writemage.com) - Native macOS app to use ChatGPT in any app. ($)
 - [PaletteBrain](https://palettebrain.com) - Native macOS app to use ChatGPT in any app. ($)
 - [Machato](https://untimelyunicorn.gumroad.com/l/machato) - Native macOS app. ($)
+- [wonderGPT](https://wondergpt.co) - Native macOS app with a focus on simplicity.
 - [Petey](https://apps.apple.com/app/id6446047813) - Native iOS and watchOS app. ($)
 - [IntelliBar](https://intellibar.app) - macOS app that can be shown with a keyboard shortcut. ($ · Electron)
 - [Ask AI](https://sindresorhus.com/ask-ai) - Native watchOS app. ($)
@@ -54,7 +55,6 @@
 - [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - Cross-platform web UI wrapper. (Electron)
 - [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - Native Android app.
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
-- [wonderGPT](https://wondergpt.co) - Native macOS app with a focus on design and simplicity.
 
 ## Web apps
 
