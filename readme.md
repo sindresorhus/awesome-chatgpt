@@ -144,6 +144,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
+- [cz-git](https://github.com/Zhengqbbb/cz-git) - Automatically generate Git commit messages.
 
 ## Bots
 
