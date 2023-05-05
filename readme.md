@@ -133,18 +133,18 @@
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT.
 - [CLI for ChatGPT](https://github.com/j178/chatgpt) - Interactive interface for ChatGPT.
 - [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - Automatically generate PowerPoint presentations.
-- [aicommits](https://github.com/Nutlope/aicommits) - Automatically generate Git commit messages.
-- [happycommit](https://github.com/jackbackes/happycommit) - Automatically generate Git commit messages.
-- [commit-assist](https://github.com/dejorrit/commit-assist) - Automatically generate Git commit messages.
-- [ai-commit](https://github.com/guanguans/ai-commit) - Automatically generate conventional Git commit messages.
 - [StackExplain](https://github.com/shobrook/stackexplain) - Have your error messages explained in plain English.
 - [clevercli](https://github.com/clevercli/clevercli) - ChatGPT-powered command-line utilities.
 - [README-AI](https://github.com/eli64s/README-AI) - Automatically generate README files.
+- [aicommits](https://github.com/Nutlope/aicommits) - Automatically generate Git commit messages.
+- [happycommit](https://github.com/jackbackes/happycommit) - Automatically generate Git commit messages.
+- [commit-assist](https://github.com/dejorrit/commit-assist) - Automatically generate Git commit messages.
+- [cz-git](https://github.com/Zhengqbbb/cz-git) - Automatically generate Git commit messages.
+- [ai-commit](https://github.com/guanguans/ai-commit) - Automatically generate conventional Git commit messages.
 - [gptcommit](https://github.com/zurawiki/gptcommit) - Git hook for authoring commit messages.
 - [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
-- [cz-git](https://github.com/Zhengqbbb/cz-git) - Automatically generate Git commit messages.
 
 ## Bots
 
