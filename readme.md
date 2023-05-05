@@ -58,6 +58,7 @@
 - [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - Cross-platform web UI wrapper. (Electron)
 - [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - Native Android app.
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
+- [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 
 ## Web apps
 
