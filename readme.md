@@ -180,6 +180,7 @@
 - [docGPT](https://github.com/cesarhuret/docGPT) - Use ChatGPT directly within Google Docs.
 - [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - Integrate ChatGPT with Microsoft Word.
 - [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
+- [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
 
 ## Packages
 
@@ -188,6 +189,7 @@
 - [Swift](https://github.com/adamrushy/OpenAISwift)
 - [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
 - [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+- [Delphi](https://github.com/HemulGM/DelphiOpenAI)
 
 ### JavaScript
 
