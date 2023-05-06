@@ -58,6 +58,7 @@
 - [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - Cross-platform web UI wrapper. (Electron)
 - [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - Native Android app.
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
+- [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 
 ## Web apps
 
@@ -177,8 +178,9 @@
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin.
 - [ChatGPT Jetbrains](https://github.com/dromara/ChatGPT) - Jetbrains plugin.
 - [DocGPT](https://workspace.google.com/u/0/marketplace/app/docgpt_ai_writer_for_docs/466607203252) - Writing assistant for Google Docs.
-- [docGPT](https://github.com/cesarhuret/docGPT) - Use ChatGPT directly within Google Docs.
-- [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - Integrate ChatGPT with Microsoft Word.
+- [docGPT](https://github.com/cesarhuret/docGPT) - Use ChatGPT in Google Docs.
+- [WordGPT](https://github.com/filippofinke/WordGPT) - Use ChatGPT in Microsoft Word.
+- [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - How to integrate ChatGPT with Microsoft Word.
 - [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
 - [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
 
