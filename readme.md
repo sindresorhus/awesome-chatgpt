@@ -149,6 +149,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
+- [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs written in Rust.
 
 ## Bots
 
