@@ -92,6 +92,7 @@
 - [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
 - [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
 - [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
+- [Anse](https://github.com/anse-app/anse) - Anse is a fully optimized UI for AI Chats.
 
 ### Examples
 
