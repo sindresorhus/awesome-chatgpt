@@ -183,6 +183,7 @@
 - [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - How to integrate ChatGPT with Microsoft Word.
 - [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
 - [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
+- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
 
 ## Packages
 
