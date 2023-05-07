@@ -185,6 +185,7 @@
 - [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
 - [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
 - [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
+- [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
 
 ## Packages
 
