@@ -43,6 +43,7 @@
 
 ## Apps
 
+- [LearnGPT](https://learngpt.art) - Title-Based Book Creation.
 - [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) - Access the ChatGPT web UI from the menu bar, Dock, or using a keyboard shortcut on macOS.
 - [MacGPT](https://www.macgpt.com) - Native macOS app with a global prompt and also a web UI wrapper.
 - [Chatterbox](https://manuelkehl.gumroad.com/l/chatterbox) - Native macOS app that can be shown with a keyboard shortcut.
