@@ -60,6 +60,7 @@
 - [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - Native Android app.
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
+- [FictionGPT](https://fictiongpt.xyz) - A Tool for Writing Compelling Fiction.
 
 ## Web apps
 
