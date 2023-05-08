@@ -186,6 +186,7 @@
 - [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
 - [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
 - [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
+- [chatGPT-maya](https://github.com/LouisRossouw/chatGPT-maya) - Maya tool that utilizes open AI chatGPT to perform basic tasks based on descriptive instructions.
 
 ## Packages
 
