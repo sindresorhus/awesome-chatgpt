@@ -149,6 +149,7 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
+- [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
 
 ## Bots
 
@@ -183,6 +184,8 @@
 - [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - How to integrate ChatGPT with Microsoft Word.
 - [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
 - [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
+- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
+- [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
 
 ## Packages
 
