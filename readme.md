@@ -150,6 +150,7 @@
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
 - [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
+- [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Shell wrapper for ChatGPT, DALL-E, Whisper, and awesome-chatgpt-prompts.
 
 ## Bots
 
