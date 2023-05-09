@@ -79,6 +79,7 @@
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) - Generate ESLint rules from example code.
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
+- [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
 
 ### Hosted
 
@@ -151,6 +152,7 @@
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
 - [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
+- [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
 
 ## Bots
 
@@ -187,6 +189,7 @@
 - [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
 - [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
 - [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
+- [Translate GPT](https://github.com/ftp27/fastlane-plugin-translate_gpt) - A fastlane plugin that provides an action to translate localizable strings using ChatGPT.
 
 ## Packages
 
