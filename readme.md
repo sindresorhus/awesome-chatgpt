@@ -60,7 +60,7 @@
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
-- [Short Circuit](https://apps.apple.com/us/app/short-circuit-an-ai-assistant/id1638522784) - A native iPhone, iPad, and Mac app for ChatGPT with support for Siri, Shortcuts, and more.
+- [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
 
 ## Web apps
 
