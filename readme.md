@@ -119,6 +119,7 @@
 - [ChatGPT for Google Colab](https://github.com/ali-h-kudeir/ChatGPT-Google-Colab) - Embed ChatGPT inside Google Colab.
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your pull requests.
 - [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
+- [Ask The Video](https://chrome.google.com/webstore/detail/ask-the-video/abedhpcjdaheeedikdakfmjapgoohfgc) - Not only summarizes YouTube videos but also Q&A.
 
 **User scripts**
 
@@ -154,6 +155,7 @@
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
 - [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
 - [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
+- [ai-commit] - (Golang) Generate commit message and tag.
 
 ## Bots
 
