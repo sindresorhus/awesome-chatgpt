@@ -60,6 +60,7 @@
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
+- [Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with AI (ChatGPT).
 
 ## Web apps
 
