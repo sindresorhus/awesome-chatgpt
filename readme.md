@@ -84,6 +84,7 @@
 - [TypingMind](https://www.typingmind.com) - Alternative web UI.
 - [Humata.ai](https://www.humata.ai) - Ask anything about your files.
 - [Epic Music Quiz](https://epicmusicquiz.com) - Create your own custom music video quiz.
+- [Anse](https://github.com/anse-app/anse) - Anse is a fully optimized UI for AI Chats.
 
 ### Self-hosted
 
