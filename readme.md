@@ -59,6 +59,7 @@
 - [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - Native Android app.
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
+- [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
 
 ## Web apps
 
@@ -78,13 +79,14 @@
 - [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) - Generate ESLint rules from example code.
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
+- [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
 
 ### Hosted
 
 - [TypingMind](https://www.typingmind.com) - Alternative web UI.
+- [ChatKit](https://chatkit.app) - Refined ChatGPT UI with support for plugins and accessing external resources.
 - [Humata.ai](https://www.humata.ai) - Ask anything about your files.
 - [Epic Music Quiz](https://epicmusicquiz.com) - Create your own custom music video quiz.
-- [Anse](https://github.com/anse-app/anse) - Anse is a fully optimized UI for AI Chats.
 
 ### Self-hosted
 
@@ -151,6 +153,8 @@
 - [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
 - [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
+- [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
+- [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
 
 ## Bots
 
@@ -169,6 +173,7 @@
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - Chatbot for large PDF files.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
 - [Chat Bling](https://chatbling.net) - WhatsApp bot.
+- [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
 
 ## Integrations
 
@@ -185,6 +190,9 @@
 - [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - How to integrate ChatGPT with Microsoft Word.
 - [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
 - [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
+- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
+- [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
+- [Translate GPT](https://github.com/ftp27/fastlane-plugin-translate_gpt) - A fastlane plugin that provides an action to translate localizable strings using ChatGPT.
 
 ## Packages
 
@@ -221,3 +229,4 @@
 ## Related lists
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompt curation.
+- [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Whisper is an AI-powered speech recognition system.
