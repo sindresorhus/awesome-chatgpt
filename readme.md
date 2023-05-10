@@ -87,7 +87,7 @@
 - [ChatKit](https://chatkit.app) - Refined ChatGPT UI with support for plugins and accessing external resources.
 - [Humata.ai](https://www.humata.ai) - Ask anything about your files.
 - [Epic Music Quiz](https://epicmusicquiz.com) - Create your own custom music video quiz.
-
+- [Anse](https://github.com/anse-app/anse) - Anse is a fully optimized UI for AI Chats.
 ### Self-hosted
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
