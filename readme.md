@@ -86,6 +86,7 @@
 - [TypingMind](https://www.typingmind.com) - Alternative web UI.
 - [Humata.ai](https://www.humata.ai) - Ask anything about your files.
 - [Epic Music Quiz](https://epicmusicquiz.com) - Create your own custom music video quiz.
+- [FlexGPT](https://flexgpt.io) - Like ChatGPT but for pros, with long-term memory, internet access, unlimited GPT-4, and no subscription.
 
 ### Self-hosted
 
