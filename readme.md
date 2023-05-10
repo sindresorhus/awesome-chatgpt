@@ -43,7 +43,6 @@
 
 ## Apps
 
-- [Short Circuit](https://apps.apple.com/us/app/short-circuit-an-ai-assistant/id1638522784) - A native iPhone, iPad, and Mac app for ChatGPT with support for Siri, Shortcuts, and more.
 - [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) - Access the ChatGPT web UI from the menu bar, Dock, or using a keyboard shortcut on macOS.
 - [MacGPT](https://www.macgpt.com) - Native macOS app with a global prompt and also a web UI wrapper.
 - [Chatterbox](https://manuelkehl.gumroad.com/l/chatterbox) - Native macOS app that can be shown with a keyboard shortcut.
@@ -61,6 +60,7 @@
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
+- [Short Circuit](https://apps.apple.com/us/app/short-circuit-an-ai-assistant/id1638522784) - A native iPhone, iPad, and Mac app for ChatGPT with support for Siri, Shortcuts, and more.
 
 ## Web apps
 
