@@ -81,6 +81,7 @@
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
 - [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
+- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 
 ### Hosted
 
