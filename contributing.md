@@ -17,9 +17,10 @@ Ensure your pull request adheres to the following guidelines:
 	- It should have at least 20 stars.
 	- Link to the GitHub repo, not its website.
 - Keep descriptions short and simple, but descriptive.
-- Descriptions should not be marketing taglines.
-- Descriptions should not be title-case.
-- Start the description with a capital and end with a full stop/period.
+- The description should not be marketing taglines.
+- The description should not be title-case.
+- The description should not repeat the item title.
+- The description should start with a capital and end with a full stop/period.
 - Check your spelling and grammar. You can use ChatGPT for this!
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title.
