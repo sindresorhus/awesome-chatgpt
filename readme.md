@@ -170,6 +170,7 @@
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - Chatbot for large PDF files.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
 - [Chat Bling](https://chatbling.net) - WhatsApp bot.
+- [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
 
 ## Integrations
 
