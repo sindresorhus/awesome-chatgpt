@@ -83,7 +83,7 @@
 - [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
 - [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Interactive conversations with the contents of PDF files.
-- [Chat Chat](https://github.com/okisdev/ChatChat) - Deploy your own AI Interface, all AI in one place.
+- [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
 
 ### Hosted
 
