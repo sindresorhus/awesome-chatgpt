@@ -82,7 +82,7 @@
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
 - [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
 - [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Use ChatGPT in PDF file.
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Use ChatGPT capabilities in PDF file.
 
 ### Hosted
 
