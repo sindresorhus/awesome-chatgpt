@@ -158,7 +158,6 @@
 
 ## Bots
 
-- [getchatgpt-telegram-bot](https://t.me/Get_ChatGPT_Bot) - [Get ChatGPT](https://getgptapi.com/) Telegram Bot, free private and group chat AI assistant.
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot.
 - [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - Telegram bot.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Telegram bot.
@@ -175,6 +174,7 @@
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
 - [Chat Bling](https://chatbling.net) - WhatsApp bot.
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
+- [getchatgpt-telegram-bot](https://t.me/Get_ChatGPT_Bot) - [Get ChatGPT](https://getgptapi.com/) Telegram Bot, free private and group chat AI assistant.
 
 ## Integrations
 
