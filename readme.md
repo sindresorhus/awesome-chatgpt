@@ -60,6 +60,7 @@
 - [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
+- [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
 - [Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with AI (ChatGPT).
 
 ## Web apps
@@ -81,6 +82,7 @@
 - [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
 - [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
+- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 
 ### Hosted
 
