@@ -82,6 +82,7 @@
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
 - [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
 - [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Use ChatGPT in PDF file.
 
 ### Hosted
 
@@ -188,7 +189,6 @@
 - [ChatGPT Jetbrains](https://github.com/dromara/ChatGPT) - Jetbrains plugin.
 - [DocGPT](https://workspace.google.com/u/0/marketplace/app/docgpt_ai_writer_for_docs/466607203252) - Writing assistant for Google Docs.
 - [docGPT](https://github.com/cesarhuret/docGPT) - Use ChatGPT in Google Docs.
-- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities.
 - [WordGPT](https://github.com/filippofinke/WordGPT) - Use ChatGPT in Microsoft Word.
 - [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - How to integrate ChatGPT with Microsoft Word.
 - [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
