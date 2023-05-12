@@ -160,6 +160,7 @@
 - [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
 - [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
 - [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
+- [ShellGPT](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT.
 
 ## Bots
 
