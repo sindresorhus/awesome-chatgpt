@@ -159,7 +159,7 @@
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
 - [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
 - [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
-- [shell-genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
+- [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
 
 ## Bots
 
