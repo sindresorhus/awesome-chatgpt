@@ -61,9 +61,10 @@
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
 - [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
-- [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
 
 ## Web apps
+
+- [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
 
 ### Hosted and self-hosted
 
