@@ -85,7 +85,7 @@
 - [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Interactive conversations with the contents of PDF files.
 - [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
-- [VLog](https://github.com/showlab/VLog) - Convert videos to documents with ChatGPT.
+- [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
 
 ### Hosted
 
