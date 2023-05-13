@@ -61,7 +61,8 @@
 - [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
 - [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
-- [Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with AI (ChatGPT).
+- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
+- [Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT.
 
 ## Web apps
 
@@ -83,6 +84,8 @@
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
 - [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). 
 - [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Interactive conversations with the contents of PDF files.
+- [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
 
 ### Hosted
 
@@ -158,6 +161,8 @@
 - [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
 - [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
 - [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
+- [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
+- [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 
 ## Bots
 
