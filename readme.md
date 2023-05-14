@@ -62,7 +62,7 @@
 - [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
 - [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
 - [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
-- [Developer Duck](https://apps.apple.com/us/app/developer-duck/id1662283032?mt=12) - Developer focused ChatGPT, Xcode plugin, command line support, and more ($)
+- [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
 
 ## Web apps
 
