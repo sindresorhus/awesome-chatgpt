@@ -87,7 +87,7 @@
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Interactive conversations with the contents of PDF files.
 - [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
 - [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
-- [VideoChatGPT](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
+- [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 
 ### Hosted
 
