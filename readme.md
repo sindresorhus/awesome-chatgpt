@@ -63,6 +63,7 @@
 - [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
 - [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
 - [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
+- [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
 - [Chat2DB](https://github.com/alibaba/Chat2DB) - Database and SQL tools with ChatGPT.
 
 ## Web apps
@@ -88,6 +89,7 @@
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Interactive conversations with the contents of PDF files.
 - [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
 - [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
+- [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 
 ### Hosted
 
