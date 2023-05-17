@@ -89,7 +89,7 @@
 - [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
 - [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
-- [Visual ChatGPT](https://github.com/microsoft/TaskMatrix) - Send and receive images in chat combined with ChatGPT functionality.
+- [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
 
 ### Hosted
 
