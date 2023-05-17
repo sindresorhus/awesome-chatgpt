@@ -63,6 +63,7 @@
 - [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
 - [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
 - [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
+- [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
 
 ## Web apps
 
@@ -206,6 +207,7 @@
 - [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
 - [Translate GPT](https://github.com/ftp27/fastlane-plugin-translate_gpt) - A fastlane plugin that provides an action to translate localizable strings using ChatGPT.
 - [PandasAI](https://github.com/gventuri/pandas-ai) - Integrate ChatGPT capabilities into Pandas.
+- [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides.
 
 ## Packages
 
