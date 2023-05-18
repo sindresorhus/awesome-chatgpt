@@ -64,6 +64,7 @@
 - [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
 - [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
 - [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
+- [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
 
 ## Web apps
 
