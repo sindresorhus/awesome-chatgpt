@@ -71,6 +71,7 @@
 ### Hosted and self-hosted
 
 - [ShareGPT](https://github.com/domeccleston/sharegpt) - Share permanent links to ChatGPT conversations.
+- [Anse](https://github.com/anse-app/anse) - Alternative ChatGPT web UI.
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Alternative ChatGPT web UI.
 - [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - Alternative ChatGPT web UI.
 - [roomGPT](https://github.com/Nutlope/roomGPT) - Generate your dream room.
@@ -91,7 +92,6 @@
 - [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
-- [Anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 
 ### Hosted
 
