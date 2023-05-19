@@ -64,12 +64,14 @@
 - [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
 - [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
 - [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
+- [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
 
 ## Web apps
 
 ### Hosted and self-hosted
 
 - [ShareGPT](https://github.com/domeccleston/sharegpt) - Share permanent links to ChatGPT conversations.
+- [Anse](https://github.com/anse-app/anse) - Alternative ChatGPT web UI.
 - [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Alternative ChatGPT web UI.
 - [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - Alternative ChatGPT web UI.
 - [roomGPT](https://github.com/Nutlope/roomGPT) - Generate your dream room.
@@ -89,6 +91,7 @@
 - [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
 - [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
+- [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
 
 ### Hosted
 
@@ -167,6 +170,7 @@
 - [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
 - [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
+- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
 
 ## Bots
 
