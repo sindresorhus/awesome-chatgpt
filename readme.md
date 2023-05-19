@@ -172,6 +172,7 @@
 
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot.
 - [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - Telegram bot.
+- [TeleChatGPT](https://github.com/Patrizio-programs/TeleChatGPT) - Telegram Bot
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Telegram bot.
 - [myGPTReader](https://github.com/madawei2699/myGPTReader) - Slack bot.
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - Slack bot.
