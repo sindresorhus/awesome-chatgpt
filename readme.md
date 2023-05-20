@@ -181,6 +181,7 @@
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - Slack bot.
 - [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot) - Discord bot.
 - [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Discord bot.
+- [ChatGPT-Discord-Bot](https://github.com/TheExplainthis/ChatGPT-Discord-Bot) - Discord Bot.
 - [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes bot.
 - [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) - GitHub Actions bot.
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - GitHub Actions bot.
