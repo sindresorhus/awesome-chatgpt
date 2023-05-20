@@ -190,6 +190,7 @@
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
 - [Chat Bling](https://chatbling.net) - WhatsApp bot.
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
+- [ChatGPT-Line-Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - Line Bot.
 
 ## Integrations
 
