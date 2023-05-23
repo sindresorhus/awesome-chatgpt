@@ -92,6 +92,7 @@
 - [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
+- [Ecoute](https://github.com/SevaSk/ecoute) - Real-time transcription of speakers using ChatGPT.
 
 ### Hosted
 
