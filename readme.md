@@ -133,6 +133,7 @@
 - [ChatGPT for Google Colab](https://github.com/ali-h-kudeir/ChatGPT-Google-Colab) - Embed ChatGPT inside Google Colab.
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your pull requests.
 - [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
+- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and full-window mode to ChatGPT.
 
 **User scripts**
 
