@@ -143,7 +143,7 @@
 - [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clear ChatGPT conversation history for increased privacy.
 - [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
-- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Generates endless answers to random questions from ChatGPT in any language.
+- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 
 **Bookmarklets**
 
