@@ -216,6 +216,7 @@
 - [PandasAI](https://github.com/gventuri/pandas-ai) - Integrate ChatGPT capabilities into Pandas.
 - [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides.
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
+- [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
 
 ## Packages
 
