@@ -173,6 +173,7 @@
 - [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
+- [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT.
 
 ## Bots
 
