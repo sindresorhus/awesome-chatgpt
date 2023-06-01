@@ -134,6 +134,7 @@
 - [ChatGPT for Google Colab](https://github.com/ali-h-kudeir/ChatGPT-Google-Colab) - Embed ChatGPT inside Google Colab.
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your pull requests.
 - [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
+- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and full-window mode to ChatGPT.
 
 **User scripts**
 
@@ -143,6 +144,7 @@
 - [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clear ChatGPT conversation history for increased privacy.
 - [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
+- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 
 **Bookmarklets**
 
