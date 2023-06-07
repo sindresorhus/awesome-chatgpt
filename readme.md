@@ -149,7 +149,7 @@
 **Bookmarklets**
 
 - [Conversation Saving](https://github.com/jcubic/chat-gpt) - Save your ChatGPT conversation.
-- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - Export ChatGPT conversations to Markdown files.
 
 ## CLI tools
 
