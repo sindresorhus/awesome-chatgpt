@@ -154,6 +154,7 @@
 ## CLI tools
 
 - [Assistant CLI](https://github.com/diciaup/assistant-cli) - Use ChatGPT from the command-line.
+- [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
 - [SearchGPT](https://github.com/tobiasbueschel/search-gpt) - Connect ChatGPT with the Internet.
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT.
 - [CLI for ChatGPT](https://github.com/j178/chatgpt) - Interactive interface for ChatGPT.
