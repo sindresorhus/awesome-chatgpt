@@ -92,6 +92,7 @@
 - [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
+- [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
 
 ### Hosted
 
@@ -148,6 +149,7 @@
 **Bookmarklets**
 
 - [Conversation Saving](https://github.com/jcubic/chat-gpt) - Save your ChatGPT conversation.
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - Export ChatGPT conversations to Markdown files.
 
 ## CLI tools
 
@@ -214,6 +216,7 @@
 - [PandasAI](https://github.com/gventuri/pandas-ai) - Integrate ChatGPT capabilities into Pandas.
 - [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides.
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
+- [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
 
 ## Packages
 
