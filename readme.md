@@ -93,6 +93,7 @@
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
 - [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
+- [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - Code interpreter integrated with ChatGPT.
 
 ### Hosted
 
