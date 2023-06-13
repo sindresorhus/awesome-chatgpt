@@ -93,6 +93,7 @@
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
 - [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
+- [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - A web application combining ChatGPT and Midjourney.
 
 ### Hosted
 
