@@ -93,6 +93,7 @@
 - [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
 - [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
+- [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - Code interpreter integrated with ChatGPT.
 
 ### Hosted
 
@@ -175,6 +176,7 @@
 - [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
+- [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
 
 ## Bots
 
