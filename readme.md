@@ -65,6 +65,7 @@
 - [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
 - [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
 - [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
+- [EasyChat AI](https://easychat-ai.app/) - Native Windows app using latest Windows 11 design lanquage.
 
 ## Web apps
 
