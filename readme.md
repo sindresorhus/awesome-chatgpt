@@ -257,3 +257,4 @@
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompt curation.
 - [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Whisper is an AI-powered speech recognition system.
+- [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) -  A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
