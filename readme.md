@@ -66,6 +66,7 @@
 - [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
 - [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
 - [EasyChat AI](https://easychat-ai.app) - Native Windows app using the latest Windows 11 design lanquage.
+- [pgMagic🪄](https://pgmagic.app/?ref=awesome-chatgpt) - Mac postgres client that lets you query your database using natural language. ($)
 
 ## Web apps
 
