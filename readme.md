@@ -234,7 +234,7 @@
 
 ### JavaScript
 
-- [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - Easy interaction with the ChatGPT DOM.
+- [chatgpt.js](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
 
 ### Python
 
