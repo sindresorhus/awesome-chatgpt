@@ -138,6 +138,7 @@
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your pull requests.
 - [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
 - [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and full-window mode to ChatGPT.
+- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 
 **User scripts**
 
