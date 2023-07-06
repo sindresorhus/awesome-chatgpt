@@ -235,6 +235,7 @@
 ### JavaScript
 
 - [chatgpt.js](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
+- [Vercel AI SDK](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces.
 
 ### Python
 
