@@ -199,6 +199,7 @@
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
 - [Chat Bling](https://chatbling.net) - WhatsApp bot.
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
+- [getchatgpt-telegram-bot](https://t.me/Get_ChatGPT_Bot) - [Get ChatGPT](https://getgptapi.com/) Telegram Bot, free private and group chat AI assistant.
 
 ## Integrations
 
