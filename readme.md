@@ -193,8 +193,7 @@
 - [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes bot.
 - [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) - GitHub Actions bot.
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - GitHub Actions bot.
-- [chatgpt-create-unit-tests
-](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions bot that analyses a pull request and adds unit tests if necessary.
+- [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions bot that analyses a pull request and adds unit tests if necessary.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - Chatbot for large PDF files.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
 - [Chat Bling](https://chatbling.net) - WhatsApp bot.
