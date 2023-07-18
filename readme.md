@@ -65,6 +65,8 @@
 - [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
 - [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
 - [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
+- [EasyChat AI](https://easychat-ai.app) - Native Windows app using the latest Windows 11 design lanquage.
+- [pgMagic](https://pgmagic.app) - macOS app that lets you query your PostgreSQL database using natural language. ($)
 
 ## Web apps
 
@@ -135,13 +137,14 @@
 - [ChatGPT for Google Colab](https://github.com/ali-h-kudeir/ChatGPT-Google-Colab) - Embed ChatGPT inside Google Colab.
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your pull requests.
 - [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
-- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and full-window mode to ChatGPT.
+- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
+- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 
 **User scripts**
 
 - [ChatGPT Exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and share ChatGPT conversation history.
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/README_EN.md) - Fixes common networks errors and problems with ChatGPT.
-- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and full-window mode to ChatGPT.
+- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
 - [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clear ChatGPT conversation history for increased privacy.
 - [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
@@ -231,7 +234,8 @@
 
 ### JavaScript
 
-- [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - Easy interaction with the ChatGPT DOM.
+- [chatgpt.js](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
+- [Vercel AI SDK](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces.
 
 ### Python
 
