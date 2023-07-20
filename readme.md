@@ -226,7 +226,7 @@
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
 - [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
 - [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
-- [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - A VS Code extension aiming to keep commit keystrokes to a bare minimum via LLM.
+- [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - A VS Code extension that minimizes commit keystrokes by auto-generating commit messages and performing commit or push actions for you.
 
 ## Packages
 
