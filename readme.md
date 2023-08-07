@@ -237,6 +237,7 @@
 - [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
 - [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi](https://github.com/HemulGM/DelphiOpenAI)
+- [PHP](https://github.com/openai-php/client)
 
 ### JavaScript
 
