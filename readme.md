@@ -141,6 +141,7 @@
 - [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
 - [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
+- [ArxivGPT](https://github.com/hunkimForks/chatgpt-arxiv-extension) - Displays summary and key insights of research in arXiv.
 
 **User scripts**
 
