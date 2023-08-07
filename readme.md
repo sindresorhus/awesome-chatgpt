@@ -183,6 +183,7 @@
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
 - [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
+- [propr](https://github.com/segersniels/propr-cli) - Automatically generate GitHub PR descriptions.
 
 ## Bots
 
