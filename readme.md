@@ -98,6 +98,7 @@
 - [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
 - [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - Code interpreter integrated with ChatGPT.
 - [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Personalized ChatGPT AI chatbot.
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Code interpreter with ChatGPT.
 
 ### Hosted
 
