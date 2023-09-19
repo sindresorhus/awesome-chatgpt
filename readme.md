@@ -100,6 +100,7 @@
 - [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Personalized ChatGPT AI chatbot.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Code interpreter with ChatGPT.
 - [Web3-GPT](https://github.com/Markeljan/Web3GPT) - Deploy smart contracts with ChatGPT.
+- [LobeChat](https://github.com/lobehub/lobe-chat) - Extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 
 ### Hosted
 
@@ -186,6 +187,8 @@
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
 - [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
+- [lobe-commit](https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-commit) - CLI GUI tool, uses ChatGPT to generate Gitmoji-based commit messages.
+- [lobe-i18n](https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-i18n) - CLI GUI tool, automates the i18n translation process.
 
 ## Bots
 
