@@ -109,6 +109,7 @@
 - [Epic Music Quiz](https://epicmusicquiz.com) - Create your own custom music video quiz.
 - [FlexGPT](https://flexgpt.io) - Like ChatGPT but for pros, with long-term memory, internet access, unlimited GPT-4, and no subscription.
 - [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
+- [VideoDigest.AI](https://videodigest.ai) - ChatGPT summary for any youtube video. Provides audio summary as well
 
 ### Self-hosted
 
