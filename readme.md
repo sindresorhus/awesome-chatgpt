@@ -24,14 +24,23 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Official](#official)
 - [Apps](#apps)
 - [Web apps](#web-apps)
+	- [Hosted and self-hosted](#hosted-and-self-hosted)
+	- [Hosted](#hosted)
+	- [Self-hosted](#self-hosted)
+	- [Examples](#examples)
 - [Browser extensions](#browser-extensions)
 - [CLI tools](#cli-tools)
 - [Bots](#bots)
 - [Integrations](#integrations)
 - [Packages](#packages)
+	- [API clients](#api-clients)
+	- [JavaScript](#javascript)
+	- [Python](#python)
+	- [Go](#go)
 - [Articles](#articles)
 - [Community](#community)
 - [Related lists](#related-lists)
@@ -101,6 +110,7 @@
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Code interpreter with ChatGPT.
 - [Web3-GPT](https://github.com/Markeljan/Web3GPT) - Deploy smart contracts with ChatGPT.
 - [CometLLM](https://github.com/comet-ml/comet-llm) - Open-source UI to log, visualize, and search your prompts, chains, and prompt variables.
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 
 ### Hosted
 
