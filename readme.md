@@ -101,6 +101,7 @@
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Code interpreter with ChatGPT.
 - [Web3-GPT](https://github.com/Markeljan/Web3GPT) - Deploy smart contracts with ChatGPT.
 - [CometLLM](https://github.com/comet-ml/comet-llm) - Open-source UI to log, visualize, and search your prompts, chains, and prompt variables.
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
 
 ### Hosted
 
