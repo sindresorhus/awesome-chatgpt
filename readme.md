@@ -254,7 +254,7 @@
 
 - [GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache to store responses from LLM queries.
 - [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from information sources.
-- [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
+- [GPTRouter](https://github.com/Writesonic/gptrouter/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
 
 ### Go
 
