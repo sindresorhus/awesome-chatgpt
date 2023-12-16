@@ -239,7 +239,7 @@
 
 ### API clients
 
-- [Swift](https://github.com/adamrushy/OpenAISwift)
+- [Swift](https://github.com/MacPaw/OpenAI)
 - [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
 - [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi](https://github.com/HemulGM/DelphiOpenAI)
