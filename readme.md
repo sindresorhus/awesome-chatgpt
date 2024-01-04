@@ -244,6 +244,7 @@
 - [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi](https://github.com/HemulGM/DelphiOpenAI)
 - [PHP](https://github.com/openai-php/client)
+- [Ruby](https://github.com/alexrudall/ruby-openai)
 
 ### JavaScript
 
