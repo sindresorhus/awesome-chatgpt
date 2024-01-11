@@ -146,6 +146,7 @@
 - [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
+- [YouTube Summary by TubeSum](https://tubesum.com/) - Summarizes YouTube videos, extracts key insights, shares these summaries, and provides access to essential sections through timestamps. 
 
 **User scripts**
 
