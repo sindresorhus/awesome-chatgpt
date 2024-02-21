@@ -120,7 +120,7 @@
 - [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
 - [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
 - [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
-- [GPT Academic](https://github.com/binary-husky/gpt_academic) - Enhance academic engagement, offering Proofreading, Translation, and Code Explanation.
+- [GPT Academic](https://github.com/binary-husky/gpt_academic) - Enhance academic engagement, offering proofreading, translation, and code explanation.
 
 ### Examples
 
