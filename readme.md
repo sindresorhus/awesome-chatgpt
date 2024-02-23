@@ -105,6 +105,7 @@
 
 ### Hosted
 
+- [Copilot.Live](https://www.copilot.live/) - Custom GPT for your website.
 - [TypingMind](https://www.typingmind.com) - Alternative web UI.
 - [ChatKit](https://chatkit.app) - Refined ChatGPT UI with support for plugins and accessing external resources.
 - [Humata.ai](https://www.humata.ai) - Ask anything about your files.
