@@ -45,6 +45,7 @@
 
 - [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) - Access the ChatGPT web UI from the menu bar, Dock, or using a keyboard shortcut on macOS.
 - [MacGPT](https://www.macgpt.com) - Native macOS app with a global prompt and also a web UI wrapper.
+- [MindMac](https://mindmac.app/) - Power user-focused macOS app with a global prompt which accomodates other LLMs such as Mistra, VertexAI, Claude, Perplixity, etc. ($)
 - [Chatterbox](https://manuelkehl.gumroad.com/l/chatterbox) - Native macOS app that can be shown with a keyboard shortcut.
 - [WriteMage](https://writemage.com) - Native macOS app to use ChatGPT in any app. ($)
 - [PaletteBrain](https://palettebrain.com) - Native macOS app to use ChatGPT in any app. ($)
