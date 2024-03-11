@@ -68,6 +68,7 @@
 - [EasyChat AI](https://easychat-ai.app) - Native Windows app using the latest Windows 11 design lanquage.
 - [pgMagic](https://pgmagic.app) - macOS app that lets you query your PostgreSQL database using natural language. ($)
 - [Atua](https://atua.app) - macOS app to use ChatGPT in any app. ($)
+- [16x Prompt](https://prompt.16x.engineer) - Cross-platform app to add source code and formatting instructions into prompt for coding tasks. ($)
 
 ## Web apps
 
