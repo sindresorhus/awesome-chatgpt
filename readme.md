@@ -191,6 +191,7 @@
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
 - [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
+- [please-cli](https://github.com/TNG/please-cli) - An AI helper for creating CLI commands
 
 ## Bots
 
