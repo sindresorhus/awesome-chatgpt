@@ -69,6 +69,7 @@
 - [pgMagic](https://pgmagic.app) - macOS app that lets you query your PostgreSQL database using natural language. ($)
 - [Atua](https://atua.app) - macOS app to use ChatGPT in any app. ($)
 - [16x Prompt](https://prompt.16x.engineer) - Cross-platform app to add source code and formatting instructions into prompt for coding tasks. ($)
+- [AI Chat](https://www.chatbar.top) - Cross-platform app that provides quick access to chatbots like ChatGPT from the menu bar. (Electron)
 
 ## Web apps
 
