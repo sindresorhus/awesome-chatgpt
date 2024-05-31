@@ -24,14 +24,23 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Official](#official)
 - [Apps](#apps)
 - [Web apps](#web-apps)
+	- [Hosted and self-hosted](#hosted-and-self-hosted)
+	- [Hosted](#hosted)
+	- [Self-hosted](#self-hosted)
+	- [Examples](#examples)
 - [Browser extensions](#browser-extensions)
 - [CLI tools](#cli-tools)
 - [Bots](#bots)
 - [Integrations](#integrations)
 - [Packages](#packages)
+	- [API clients](#api-clients)
+	- [JavaScript](#javascript)
+	- [Python](#python)
+	- [Go](#go)
 - [Articles](#articles)
 - [Community](#community)
 - [Related lists](#related-lists)
@@ -107,6 +116,7 @@
 
 ### Hosted
 
+- [MyBot.Chat](https://mybot.chat) - Build custom AI chatbot powered by LLM like ChatGPT or Llama 3 for Customer Support tasks and lead generation. No Code.
 - [TypingMind](https://www.typingmind.com) - Alternative web UI.
 - [ChatKit](https://chatkit.app) - Refined ChatGPT UI with support for plugins and accessing external resources.
 - [Humata.ai](https://www.humata.ai) - Ask anything about your files.
