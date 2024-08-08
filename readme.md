@@ -265,6 +265,7 @@
 - [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
 - [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
+- [Python Smart Exceptions](https://github.com/roma-guru/smart-exceptions) - AI-Powered Python Error Analysis.
 
 ## Packages
 
