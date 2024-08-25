@@ -18,6 +18,32 @@
 	<br>
 	<br>
 	<br>
+	<hr>
+	<p>
+		<p>
+			<sup>
+				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+			</sup>
+		</p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<br>
+		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
+			<div>
+				<picture>
+					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
+					<source width="230" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
+					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
+				</picture>
+			</div>
+			<b>The development platform for building type-safe distributed systems</b>
+			<div>
+				<sup>End-to-end tooling from local development to automated DevOps and infrastructure in your AWS/GCP.</sup>
+			</div>
+		</a>
+		<br>
+	</p>
+	<hr>
 	<br>
 	<br>
 </div>
@@ -70,6 +96,8 @@
 - [Atua](https://atua.app) - macOS app to use ChatGPT in any app. ($)
 - [16x Prompt](https://prompt.16x.engineer) - Cross-platform app to add source code and formatting instructions into prompt for coding tasks. ($)
 - [AI Chat](https://www.chatbar.top) - Cross-platform app that provides quick access to chatbots like ChatGPT from the menu bar. (Electron)
+- [ScreenSnapAI](https://screensnap.ai) - Native macOS app to chat about captured screenshots. ($)
+- [QChatGPT](https://github.com/timamus/QChatGPT) - ChatGPT cross-platform client made with the Quasar framework. (Electron)
 
 ## Web apps
 
@@ -150,6 +178,7 @@
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
 - [YouTube Summary by TubeSum](https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm) - Summarize YouTube videos.
+- [SwiftStyle AI](https://github.com/swiftstyleai/swiftstyleai) - An open-source Chrome extension that customizes content to match your unique style and brand voice.
 
 **User scripts**
 
@@ -240,6 +269,7 @@
 - [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
 - [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
+- [Python Smart Exceptions](https://github.com/roma-guru/smart-exceptions) - AI-powered Python exceptions debugging.
 
 ## Packages
 
@@ -256,6 +286,7 @@
 
 - [chatgpt.js](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
 - [Vercel AI SDK](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces.
+- [llm-ui](https://github.com/llm-ui-kit/llm-ui) - An open source library for building UIs for LLMs.
 
 ### Python
 
