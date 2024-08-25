@@ -71,7 +71,7 @@
 - [16x Prompt](https://prompt.16x.engineer) - Cross-platform app to add source code and formatting instructions into prompt for coding tasks. ($)
 - [AI Chat](https://www.chatbar.top) - Cross-platform app that provides quick access to chatbots like ChatGPT from the menu bar. (Electron)
 - [ScreenSnapAI](https://screensnap.ai) - Native macOS app to chat about captured screenshots. ($)
-- [QChatGPT](https://github.com/timamus/QChatGPT) - ChatGPT cross-platform client made with Quasar Framework. (Electron)
+- [QChatGPT](https://github.com/timamus/QChatGPT) - ChatGPT cross-platform client made with the Quasar framework. (Electron)
 
 ## Web apps
 
