@@ -190,7 +190,7 @@
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses are cut off.
-- [GoogleGPT](https://www.googlegpt.io) - Adds ChatGPT to Google Search.
+- [GoogleGPT](https://github.com/KudoAI/googlegpt) - Adds ChatGPT to Google Search.
 
 **Bookmarklets**
 
