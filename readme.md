@@ -221,7 +221,7 @@
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
 - [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
 - [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
-- [code-collator](https://github.com/tawanda-kembo/code-collator): Creates a single markdown file that describes your entire codebase to LLMs.
+- [code-collator](https://github.com/tawanda-kembo/code-collator) - Creates a single markdown file that describes your entire codebase to LLMs.
 
 ## Bots
 
