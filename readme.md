@@ -225,6 +225,7 @@
 ## Bots
 
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot.
+- [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 - [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - Telegram bot.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Telegram bot.
 - [myGPTReader](https://github.com/madawei2699/myGPTReader) - Slack bot.
