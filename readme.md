@@ -42,6 +42,17 @@
 			</div>
 		</a>
 		<br>
+		<br>
+		<a href="https://nitric.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=sindresorhus&utm_source=github">
+			<div>
+				<img width="230" src="https://sindresorhus.com/assets/thanks/nitric-logo.svg" alt="nitric logo">
+			</div>
+			<b>Effortless backends with infrastructure from code</b>
+			<div>
+				<sup>An open-source framework that supports any programming language, cloud provider, or deployment automation tool.</sup>
+			</div>
+		</a>
+		<br>
 	</p>
 	<hr>
 	<br>
