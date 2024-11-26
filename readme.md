@@ -201,6 +201,7 @@
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses are cut off.
+- [GoogleGPT](https://github.com/KudoAI/googlegpt) - Adds ChatGPT to Google Search.
 
 **Bookmarklets**
 
@@ -252,6 +253,7 @@
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
 - [BraveGPT](https://github.com/kudoai/bravegpt) - Brave Search bot.
+- [GoogleGPT](https://www.googlegpt.io) - Google Search bot.
 
 ## Integrations
 
