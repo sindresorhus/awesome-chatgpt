@@ -175,6 +175,7 @@
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
 - [YouTube Summary by TubeSum](https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm) - Summarize YouTube videos.
 - [SwiftStyle AI](https://github.com/swiftstyleai/swiftstyleai) - An open-source Chrome extension that customizes content to match your unique style and brand voice.
+- [Python Code Runner](https://chromewebstore.google.com/detail/python-code-runner/keiealdacakpnbbljlmhfgcebmaadieg) - Run Python code in ChatGPT with a right-click, save code snippets & create automated scripts.
 
 **User scripts**
 
