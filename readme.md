@@ -138,6 +138,7 @@
 - [FlexGPT](https://flexgpt.io) - Like ChatGPT but for pros, with long-term memory, internet access, unlimited GPT-4, and no subscription.
 - [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
 - [Wielded](https://wielded.com) - Web UI that works for OpenAI, Azure, Anthropic, and AWS Bedrock. Free for individuals.
+- [ray3.run](https://ray3.run) - AI-powered tools and applications for developers and businesses to enhance productivity and workflow automation.
 
 ### Self-hosted
 
