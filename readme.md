@@ -269,6 +269,7 @@
 
 - [Swift](https://github.com/MacPaw/OpenAI)
 - [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology API with multi-agent swarm intelligence.
 - [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi](https://github.com/HemulGM/DelphiOpenAI)
 - [PHP](https://github.com/openai-php/client)
