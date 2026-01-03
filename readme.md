@@ -262,6 +262,7 @@
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
 - [Python Smart Exceptions](https://github.com/roma-guru/smart-exceptions) - AI-powered Python exceptions debugging.
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - AI-powered Word add-in for text generation and proofreading.
+- [Vedika Astrology API](https://vedika.io) - Vedic astrology API usable as OpenAI function/tool with 108+ endpoints and AI chatbot.
 
 ## Packages
 
