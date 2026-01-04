@@ -154,6 +154,7 @@
 
 ## Browser extensions
 
+- [ChatGPT Search, Bookmark & Prompt Manager DevTools](https://chromewebstore.google.com/detail/aapchhfjoohmohpdcadghjacklcdfdml?utm_source=github) - Advanced sidebar for ChatGPT history search, message bookmarking, and prompt Manager.
 - [ChatGPT for Google](https://chatgpt4google.com) - Display ChatGPT response alongside search engine results.
 - [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Discover, share, import, and use the best prompts for ChatGPT.
 - [ChatGPT Box](https://github.com/josStorer/chatGPTBox) - Deep ChatGPT integrations in your browser.
