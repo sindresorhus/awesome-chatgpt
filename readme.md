@@ -128,6 +128,7 @@
 - [Web3-GPT](https://github.com/Markeljan/Web3GPT) - Deploy smart contracts with ChatGPT.
 - [Opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM development platform.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
+- [Rhesis](https://github.com/rhesis-ai/rhesis) - Open-source testing infrastructure for LLM and agentic applications.
 
 ### Hosted
 
