@@ -236,7 +236,7 @@
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
 - [BraveGPT](https://github.com/kudoai/bravegpt) - Brave Search bot.
 - [GoogleGPT](https://www.googlegpt.io) - Google Search bot.
-- [OpenClaw](https://github.com/openclaw/openclaw) - Self-hosted multi-channel bot bridging Claude to WhatsApp, Telegram, Discord, Slack, and more. ([Setup](https://clawdbot.blog/getting-started/installation/))
+- [OpenClaw](https://github.com/openclaw/openclaw) - Self-hosted multi-channel bot bridging Claude to WhatsApp, Telegram, Discord, Slack, and more.
 
 ## Integrations
 
