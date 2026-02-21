@@ -139,6 +139,7 @@
 - [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
 - [Wielded](https://wielded.com) - Web UI that works for OpenAI, Azure, Anthropic, and AWS Bedrock. Free for individuals.
 - [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across providers. Includes token counter and cost calculator.
+- [AI Tools Comparison](https://openclawapp.netlify.app/ai-tools-comparison/) - Interactive comparison of AI automation tools (ChatGPT, Zapier, Make, n8n, Claude) across features, pricing, automation capabilities, and use cases.
 - [Taskade](https://taskade.com) - AI-powered workspace with custom AI agents, multi-model support (GPT, Claude, Gemini), project management, and workflow automation for teams.
 
 ### Self-hosted
