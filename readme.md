@@ -257,6 +257,7 @@
 - [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
 - [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
 - [Translate GPT](https://github.com/ftp27/fastlane-plugin-translate_gpt) - A fastlane plugin that provides an action to translate localizable strings using ChatGPT.
+- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - GitHub Action that uses LLMs to automatically translate i18n localization files (XLIFF, JSON).
 - [PandasAI](https://github.com/gventuri/pandas-ai) - Integrate ChatGPT capabilities into Pandas.
 - [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides.
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
