@@ -94,6 +94,7 @@
 - [AI Chat](https://www.chatbar.top) - Cross-platform app that provides quick access to chatbots like ChatGPT from the menu bar. (Electron)
 - [ScreenSnapAI](https://screensnap.ai) - Native macOS app to chat about captured screenshots. ($)
 - [QChatGPT](https://github.com/timamus/QChatGPT) - ChatGPT cross-platform client made with the Quasar framework. (Electron)
+- [Vyact](https://github.com/vyact/vyact) - Open-source desktop app for chatting with OpenAI and local models, with document RAG and MCP tools.
 
 ## Web apps
 
